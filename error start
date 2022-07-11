@@ -1,0 +1,8 @@
+The server cannot be started because one or more of the ports are invalid. Open the server editor and correct the invalid ports.
+
+The issue is that the Tomcat admin port was not defined. You need to have it as an actual number such as 9000 rather than as a hyphen
+
+right button 
+open
+
+tomcat admin port 8081
