@@ -1,0 +1,75 @@
+notes
+How to install apache tomcat web server on windows
+apachetomcat.com
+downloads
+tomcat 9
+
+windows service installer
+java virtual machine = jre
+
+services.msc
+apache
+properties
+iniciar servicio
+ejecutar tomcat10w.exe
+
+editar privilegios carpeta
+todos los privilegios
+
+en webapps
+agregar carptera
+app1
+
+Java Web desde cero en Netbeans ☁️[03.- Mi primer Hola mundo en netbeans]
+https://www.youtube.com/watch?v=jDKKzy3-WRc&ab_channel=ProgramadorNovato
+
+apache tomcat
+
+agregar un servidor
+apache tomcat
+
+web app with maven
+run project
+
+Unable to load the mojo 'war' in the plugin 
+https://www.youtube.com/watch?v=Z1KEa6EyPbQ&ab_channel=TechieDavinder
+
+project files
+pom.xml
+
+<version>3.1.0</version>
+Starting of Tomcat failed, the server port 8080 is already in use.
+
+tomcat 
+conf
+tomcat users
+
+<role rolename="manager-gui"/>
+<user username="tomcat" password="s3cret" roles="manager-gui"/>
+
+
+https://www.youtube.com/watch?v=psvuLBVeTzQ&t=5s&ab_channel=SafaaAl-Hayali
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
